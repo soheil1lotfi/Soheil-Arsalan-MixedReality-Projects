@@ -1,0 +1,54 @@
+# Unified .gitignore for Unity projects + editors
+
+## Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+*.stacktrace
+
+## Ignore these folders in any subfolder (covers multiple projects)
+**/Library/
+**/Temp/
+**/Obj/
+**/Build/
+**/Builds/
+**/Logs/
+**/UserSettings/
+
+## Visual Studio / Rider / IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.sln.iml
+
+## Generated project files (can be tracked if you prefer)
+*.unityproj
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Thumbnails
+Thumbs.db
+
+## Build outputs / packages
+*.apk
+*.aab
+*.unitypackage
+
+# End of .gitignore

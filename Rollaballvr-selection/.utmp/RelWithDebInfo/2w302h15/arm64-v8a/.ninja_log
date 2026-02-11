@@ -1,0 +1,10 @@
+# ninja log v5
+1	1169	1770394632343361053	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c594fb349396ff17
+0	1195	1770394632370687814	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8d3ae83c101583ec
+1	1199	1770394632375956309	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d4786e42d15f0c48
+0	1215	1770394632391659166	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ca5f76ee9491553b
+0	1296	1770394632472078869	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	31a119e9462ee614
+1	1355	1770394632533146718	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	186b638b58f86768
+1	1551	1770394632728136503	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	449854b14ddcff8e
+0	1611	1770394632788631978	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	64e2415ba6f5baf8
+1611	1770	1770394632948792176	/Users/soheillotfi/Documents/MR/Rollaballvr-selection/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2w302h15/obj/arm64-v8a/libgame.so	747049eead691ca4
