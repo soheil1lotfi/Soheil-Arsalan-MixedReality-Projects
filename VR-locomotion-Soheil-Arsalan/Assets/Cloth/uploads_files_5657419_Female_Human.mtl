@@ -1,0 +1,24 @@
+# Blender 4.2.0 MTL File: 'Female_Human_Source.blend'
+# www.blender.org
+
+newmtl Body_Human_Female
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.350000
+d 1.000000
+illum 3
+map_Kd T_Body_Human_Female_BaseColor.png
+map_Ns T_Body_Human_Female_Roughness.png
+map_refl T_Body_Human_Female_Metallic.png
+map_Bump -bm 1.000000 T_Body_Human_Female_Normal.png
+
+newmtl Hair_Male
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd T_Hair_Human_Female_Color.png
+map_Ns T_Hair_Human_Female_Roughness.png
+map_d T_Hair_Human_Female_Alpha.png

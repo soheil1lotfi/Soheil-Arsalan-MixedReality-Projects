@@ -1,0 +1,2 @@
+/Users/soheillotfi/Documents/VR-locomotion-parkour/VR-locomotion-parkour/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/soheillotfi/Documents/VR-locomotion-parkour/VR-locomotion-parkour/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
